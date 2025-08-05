@@ -5,6 +5,8 @@ I built a custom Tetris game from scratch using **Python** and **Pygame**, along
 
 The bot uses a set of **heuristic functions** to evaluate possible board states and determine the optimal placement for each incoming piece.
 
+The goal of this project was to experiment with heuristic functions using Tetris as the 'playground'.
+
 ## Requirements
 
 - Python
