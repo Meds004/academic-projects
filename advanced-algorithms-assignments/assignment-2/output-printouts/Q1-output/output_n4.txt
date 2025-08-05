@@ -1,0 +1,8 @@
+There is 1 inequivalent graph of degree 3 with 4 vertices.
+Solution 1:
+[0, 1, 1, 1]
+[1, 0, 1, 1]
+[1, 1, 0, 1]
+[1, 1, 1, 0]
+
+Elapsed time: 00:00:00

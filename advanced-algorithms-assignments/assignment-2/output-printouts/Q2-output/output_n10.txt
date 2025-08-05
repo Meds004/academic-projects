@@ -1,0 +1,11 @@
+Estimated nodes for each level for n = 10
+Level 1:	84
+Level 2:	4,704
+Level 3:	125,126
+Level 4:	1,172,236
+Level 5:	7,474,656
+Level 6:	18,538,464
+Level 7:	18,867,744
+Level 8:	25,387,488
+Level 9:	25,387,488
+Level 10:	17,781,120
