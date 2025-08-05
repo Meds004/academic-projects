@@ -20,9 +20,9 @@ The batch runner was built in **Python**, and executed simulation workflows via 
 
 ## Report
 
-For full technical details and evaluation, see the report:  
-[`batch-runner-report.pdf`](./batch-runner-report.pdf)
+For full technical details and evaluation, see the report: [`batch-runner-report.pdf`](./batch-runner-report.pdf)
 
 ## Result
 
 Final grade for this project: **98%**
+
