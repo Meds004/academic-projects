@@ -7,7 +7,7 @@ I've omitted the course code and official assignment instructions, as this is a 
 ## Technologies Used
 
 - **Python** - Used for Assignments 1 and 3
-- **Java** - Used for Assignment 2, which involved solving a backtracking problem where performance and low-level control were important considerations
+- **Java** - Used for Assignment 2, which involved solving a backtracking problem where performance and efficiency were important considerations
 
 ## Course Overview
 
