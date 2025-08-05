@@ -15,6 +15,6 @@ My final grade in this course was **98%**.
 
 Course components included:
 - Three assignments (included in this repository)
-- A final project ([see `tetris-bot`](../tetris-bot))
+- A final project (see [`tetris-bot`](../tetris-bot))
 - A project presentation
 - A term test
