@@ -1,13 +1,13 @@
-# Assignment 1 - Advanced Algorithms
+# Assignment 2 - Advanced Algorithms
 
 ## Description
 
 This assignment focuses on solving the given problem using backtracking, with a focus on efficiency. 
 
-1. 
-2. 
+1. Write a program to compute the number of inequivalent regular graphs of degree 3 for a given value of *n* (number of vertices).
+2. Write a program to estimate the number of nodes at each level of the backtracking search tree for question 1.
 
-For full explanation of effiency, please refer to the Q1-efficiency-explanation document.
+For full explanation of effiency, please refer to [`Q1-efficiency-explanation`](./Q1-efficiency-explanation.pdf)
 
 ## Technologies Used
 
