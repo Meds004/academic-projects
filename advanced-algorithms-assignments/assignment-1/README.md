@@ -20,7 +20,7 @@ It includes solutions to the following questions:
    - Travel time from any stops at the last step to the end is the same
    - Prove it can now be represented as a **weighted matroid** and use the general greedy algorithm for matroids to produce an optimal answer.
 
-For full explanations and analysis, please refer to the included report 'a1-answers'.
+For full explanations and analysis, please refer to the included report [`a1-answers`](./a1-answers.pdf).
 
 ## Technologies Used
 
