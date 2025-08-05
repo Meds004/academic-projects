@@ -4,13 +4,13 @@
 
 This assignment focuses on using cryptanalysis methods to solve various ciphertexts.
 
-It includes solutions to the following questions:
+It includes solutions to the following questions (cyphertext can be found in the code and/or report):
 
 1. Decrypt the given Substitution Cipher. 
 2. Decrypt the given Vigenere Cipher.
 3. Decrypt the given Rabin Cipher.
 
-For full explanations and analysis, please refer to the included report document.
+For full explanations and analysis, please see [`report`](./report.pdf).
 
 ## Technologies Used
 
