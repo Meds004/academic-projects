@@ -9,7 +9,7 @@ The goal of this project was to experiment with heuristic functions using Tetris
 
 ## Requirements
 
-- Python
+- Python (3.10+)
 - `pygame` (install with `pip install pygame`)
 - 1080p monitor (for proper rendering and scaling)
 
