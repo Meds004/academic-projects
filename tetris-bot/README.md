@@ -15,7 +15,7 @@ The goal of this project was to experiment with heuristic functions using Tetris
 
 ## Demo
 
-Video demo (coming soon): 
+Check out the demo on [YouTube](https://youtu.be/UIH2dliqQQw)
 
 ## Report
 
